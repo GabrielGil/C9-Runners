@@ -1,0 +1,8 @@
+// Ungit runner.
+// Install ungit before by running "npm install -g ungit"
+// Then use this runner and visit your running app URL.
+// More info in https://github.com/FredrikNoren/ungit
+{
+  "cmd" : ["ungit", "--port=$PORT"],
+  "info" : "UNGIT started. Navigate to $url"
+}
